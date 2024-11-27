@@ -1,2 +1,3 @@
 Ciao mondo
 modifica da develop locale
+aggiunto da github.com
